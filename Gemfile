@@ -65,3 +65,6 @@ gem 'simple_form'
 
 # Use Devise for user authentication
 gem 'devise'
+
+# Use Factory Girl instead of Fixtures
+gem 'factory_girl_rails', '~> 4.0'
