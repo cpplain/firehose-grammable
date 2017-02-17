@@ -68,3 +68,12 @@ gem 'devise'
 
 # Use Factory Girl instead of Fixtures
 gem 'factory_girl_rails', '~> 4.0'
+
+# Use CarrierWave for image uploading
+gem 'carrierwave', '~> 1.0'
+
+# Use Figaro for secure configuration
+gem 'figaro'
+
+# Use Carrierwave AWS for uploads to S3
+gem 'carrierwave-aws'
