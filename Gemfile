@@ -59,3 +59,6 @@ end
 
 # Use Bootstrap
 gem 'bootstrap', '~> 4.0.0.alpha6'
+
+# Use Simple Form
+gem 'simple_form'
